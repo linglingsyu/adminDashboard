@@ -14,11 +14,14 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.13",
+    "@tailwindcss/forms": "^0.5.3",
+    "@vuepic/vue-datepicker": "^4.5.1",
     "pinia": "^2.0.22",
     "simplebar": "^6.2.5",
     "simplebar-vue": "^2.3.3",
     "vue": "^3.2.39",
     "vue-router": "^4.1.5",
+    "vue-select": "^4.0.0-beta.6",
     "vue-tippy": "v6"
   },
   "devDependencies": {
